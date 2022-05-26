@@ -1,0 +1,68 @@
+body {
+    background-image:url(abstract-blue-geometric-shapes-background_1035-17545.webp);
+    
+     text-align: center;
+     margin: auto;
+
+}
+#head {
+    margin-top: 100px;
+    font-size: 40px;
+    font-family: cursive;
+    color: rgba(110, 70, 9, 0.761);
+}
+#count {
+    margin-bottom: 50px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(6, 79, 79);
+    transition: all 1s ease;
+    transform: scale(2);
+}
+ .btn {
+   
+    margin-bottom: 20px;
+   padding: 10px 30px ;
+   box-shadow: 10px 0 rgba(110, 70, 9, 0.323);
+    font-size: 20px ;
+    border-radius: 20px;
+    color: rgb(16, 88, 107);
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+#btn {
+    background:linear-gradient(to left , rgba(23, 106, 109, 0.579), rgba(23, 106, 109, 0.579)) no-repeat ;
+    background-color: rgba(85, 183, 216, 0.579);
+   background-size: 0%;
+   transition: all 0.7s ease;
+
+}
+#btn:hover {
+    background-size: 100%;
+    font-size: 25px;
+}
+#butn {
+    background: linear-gradient(to left, rgba(6, 162, 170, 0.676), rgba(6, 162, 170, 0.676)) no-repeat;
+    background-color: rgba(70, 137, 224, 0.576);
+    background-size: 0%;
+    transition: all 0.7s ease;
+    margin-bottom: 20px;
+   padding: 10px 30px ;
+   box-shadow: 10px 0 rgba(110, 70, 9, 0.323);
+    font-size: 20px ;
+    border-radius: 20px;
+    color: rgb(16, 88, 107);
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#butn:hover {
+    background-size: 100%;
+    font-size: 25px;
+}
+ 
+p{
+    font-size: 25px;
+    color: rgb(10, 78, 142);
+    transition: all 1s ease;
+}
